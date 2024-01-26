@@ -10,16 +10,14 @@ This is a blog API built with Express.js. It allows users to create posts and us
 - [Contributing](#contributing)
 
 ## Installation
+Install the dependencies: npm install
+
+Start the server: npm start
 
 Clone the repository:
 
 
 Navigate into the project directory:
-
-
-Install the dependencies: npm install
-
-Start the server: npm start
 
 
 ## Usage
