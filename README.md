@@ -14,7 +14,7 @@ Install the dependencies: npm install
 
 Start the server: npm start
 
-Clone the repository:
+Clone the repository:https://github.com/Felix-101/Blog-api.git
 
 
 Navigate into the project directory:
